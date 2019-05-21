@@ -1,1 +1,1 @@
-# color-treshold
+# color-threshold
